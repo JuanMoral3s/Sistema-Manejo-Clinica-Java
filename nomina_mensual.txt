@@ -1,0 +1,21 @@
+Doctores:
+Edgar Tista - 10000.0
+Karla Pallas - 10000.0
+Total para Doctores: 20000.0
+
+Conserjes:
+Pablo Morales - 3000.0
+Juan Vera - 3000.0
+Total para Conserjes: 6000.0
+
+Auxiliares:
+Miki Miguel - 4000.0
+Puma Amigo - 500.0
+Total para Auxiliares: 4500.0
+
+Enfermeros:
+Julian Perez - 6000.0
+Carlos Lopez - 4500.0
+Total para Enfermeros: 10500.0
+
+Costo total quincenal: 41000.0
